@@ -1,0 +1,21 @@
+{
+  "name": "typescript_thainumberconverter",
+  "version": "1.0.0",
+  "description": "Thai numbers convert to Arabic with Typescript",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Thai",
+    "number",
+    "convert",
+    "Arabic",
+    "number",
+    "Thai_convert",
+    "Thai_number_convert"
+  ],
+  "author": "Bunyawat Naunnak",
+  "license": "MIT"
+}
